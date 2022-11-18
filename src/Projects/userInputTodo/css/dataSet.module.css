@@ -1,0 +1,15 @@
+.dataSet{
+    width: 20%;
+    margin: 10px;
+    text-align: justify;
+    display:inline-block;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 7px;
+}
+.h1{
+    text-align: center;
+}
+.toggle{
+    margin-left: 195px;
+}

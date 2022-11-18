@@ -1,0 +1,22 @@
+.input{
+    padding: 5px;
+    margin: 10px 5px;
+
+}
+.form{
+    margin: 20px auto;
+    background-color: #ffff;
+    padding: 20px;
+    width: 30%;
+
+
+}
+.btn{
+    font-size: 20px;
+    border-radius: 7px;
+    border: none;
+    color: #fff;
+    background-color: rgb(42, 45, 44);
+    margin: 10px;
+    padding: 10px;
+}
