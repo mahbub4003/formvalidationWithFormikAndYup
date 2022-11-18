@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live [LINK] for this project (https://rad-marzipan-b97c01.netlify.app).
+Live link  for this project  [LINK](https://rad-marzipan-b97c01.netlify.app).
 
 ## Available Scripts
 
